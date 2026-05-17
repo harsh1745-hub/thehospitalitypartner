@@ -1,8 +1,8 @@
-import gangaAarti from "../assets/experiences/ganga arti.avif";
-import boatRide from "../assets/experiences/boatride.avif";
-import templeWalk from "../assets/experiences/templewalk.png";
-import wellness from "../assets/experiences/welness.png";
-import foodTour from "../assets/experiences/Foodtour.png";
+import gangaAarti from "../assets/Experiences/ganga arti.avif";
+import boatRide from "../assets/Experiences/boatride.avif";
+import templeWalk from "../assets/Experiences/templewalk.png";
+import wellness from "../assets/Experiences/welness.png";
+import foodTour from "../assets/Experiences/Foodtour.png";
 
 export const experiences = [
   {
