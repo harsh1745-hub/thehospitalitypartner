@@ -1,6 +1,6 @@
-import varanasiPackage from "../assets/packages/varanasitour.png";
-import ayodhyaPackage from "../assets/packages/ayodhyatour.png";
-import vrindavanPackage from "../assets/packages/vrindavantour.png";
+import varanasiPackage from "../assets/Packages/varanasitour.png";
+import ayodhyaPackage from "../assets/Packages/ayodhyatour.png";
+import vrindavanPackage from "../assets/Packages/vrindavantour.png";
 
 export const packages = [
   {

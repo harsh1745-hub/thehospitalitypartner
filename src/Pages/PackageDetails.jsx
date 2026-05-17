@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom";
 
-import Container from "../components/Container";
+import Container from "../Components/Container.jsx";
 
 import { packages } from "../Data/package.js";
 

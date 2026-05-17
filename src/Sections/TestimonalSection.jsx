@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Star } from "lucide-react";
 
-import Container from "../components/Container.jsx";
+import Container from "../Components/Container.jsx";
 import { testimonials } from "../Data/testimonal.js";
 
 export default function TestimonialSection() {
